@@ -13,6 +13,8 @@ Some of these comments also are directed towards various functions such as how l
 As for me, I've known Scratch programming for almost a whole decade and I've barely done much with this kind of power and knowledge. This is one I'm making for fun, since some serious ones are most likely games.
 Now, you are recommended to activate the variables tab on the Addons section so it's easier for you to use. Or, alternatively use the exported addons file and import it on your Turbowarp Desktop software, so it's a bit more easier for you.
 Without further ado, I'd love to see what you come up with, so be sure to use @KaitoHayashiOfficial if you post it to YouTube, and refer to this for any way to credit me. Being credited is much more efficient than anything.
+# A LITTLE WARNING!
+DO NOT LOAD THIS ONTO THE ORIGINAL SCRATCH, WHENEVER ITS 1.0, 2.0, OR 3.0 SO FORTH. THIS WILL ONLY LOAD ON TURBOWARP AND WILL NOT WORK ON ORIGINAL SCRATCH.
 
 # IMPORTANT OR FUN VARIABLES
 
