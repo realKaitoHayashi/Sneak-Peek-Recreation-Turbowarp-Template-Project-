@@ -4,7 +4,7 @@
 ###### (pasted off the sb3)
 # Some probably important stuff
 If you ever put a recording of your edits to YouTube or any of the such, I'd recommend you credit me and link the GitHub in the description. In the ZIP you have extracted, there is a sample I had recorded to give the idea of what possibilities you can do with this nifty thing.
-This is originally made for fun and non-profit organizations of any such, so dare try to monetize it, I'm coming for you. (●'◡'●)
+This is originally made for fun and non-profit organizations of any such, so dare try to monetize it, I'm coming for you. (●'◡'●) (legal reasons this is a joke)
 **No seriously, I'd prefer it not monetized, but if YouTube does that suddenly, that's out of my control.**
 
 I have some variables set with some comments and as well as some configuration here. So you can freely hover or open their comment tabs to see how they function! This is made for the ease of anyone who never used Turbowarp or Scratch before or for anyone with the GOAT knowledge of the engine. Think this as your stepping stone!
