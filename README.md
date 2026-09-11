@@ -18,3 +18,5 @@ Without further ado, I'd love to see what you come up with, so be sure to use @K
 Tapes Rolling Speed: How fast should the background elements be when they rotate? This is only typically 0.35 to 0.75!
 
 End or Show Disc Cursor: If you set it to "end", it will stop the project altogether after the audio. If you set it to "cursor", the selection sprite is used. It gives the DVD emulation a little bit based on how I programmed it. Go to Cursor Elements//cursor in the sb3 to find the coordinate blocks.
+# Credit stuff
+All property such as used music belongs to Disney as this project was created with fair use and is considered **fanmade**.
